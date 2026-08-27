@@ -1,8 +1,8 @@
-# Payment API Test Task
+# Тестовое
 
-Асинхронное REST API приложение для управления пользователями, счетами и обработки транзакций (эмуляция вебхуков от сторонних платежных систем).
+Асинхронное REST API приложение для управления пользователями, счетами и обработки транзакций .
 
-**Стек технологий:** Python 3.11, FastAPI, SQLAlchemy 2.0 (asyncpg), PostgreSQL, Docker.
+**Стек:** Python 3.11, FastAPI, SQLAlchemy 2.0 (asyncpg), PostgreSQL, Docker.
 
 ---
 
